@@ -8,3 +8,5 @@
 - Constantly learning and improving my skills. 
 
 - Feel free to reach me using the badges above 😃
+
+[![My Skills](https://skillicons.dev/icons?i=js,jest,express,nestjs,nodejs,ts,py,django,flask,docker,gcp,git,go,mysql,postgres,html,aws,css)](https://skillicons.dev)
