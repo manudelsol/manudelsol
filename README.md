@@ -1,6 +1,5 @@
 # Hola!
-[![Linkedin Badge](https://img.shields.io/badge/-Manuel%20del%20Sol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueldelsol/)](https://www.linkedin.com/in/manueldelsol/)
-![Gmail](https://img.shields.io/badge/-Manuel%20del%20Sol?style=for-the-badge&logo=gmail&logoColor=white)(mailto:manueldelsol.it@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Manuel%20del%20Sol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manueldelsol/)](https://www.linkedin.com/in/manueldelsol/) [![Gmail Badge](https://img.shields.io/badge/-manueldelsol.it@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manueldelsol.it@gmail.com)](mailto:manueldelsol.it@gmail.com)
 
 ### Manuel del Sol here.
 
