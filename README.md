@@ -3,7 +3,7 @@
 
 ### Manuel del Sol here.
 
-- 25yo Software Engineer from Buenos Aires, Argentina. Currently writing code for @Satoriparts
+- 25yo Software Engineer from Buenos Aires, Argentina. I lean more towards backend development. Currently writing code for @Satoriparts
 
 - Constantly learning and improving my skills. 
 
